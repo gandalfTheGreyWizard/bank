@@ -1,0 +1,3 @@
+note :- for this app to run there should be a row in accounts database with all values NULL but acc_id = 0
+
+and in custommer with all values NULL and sr_no = 0
